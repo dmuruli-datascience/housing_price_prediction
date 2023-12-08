@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/modules.xml
+/housing_price_prediction.iml
+/jupyter-settings.xml
+/misc.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
